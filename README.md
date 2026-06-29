@@ -1,5 +1,3 @@
-# HLA-Match
-
 # OpenHLA Atlas
 
 ### Explain. Integrate. Interpret.
