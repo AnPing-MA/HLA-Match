@@ -26,15 +26,11 @@ Instead, it serves as an open knowledge hub that helps researchers understand **
 
 ## 🚀 Start Here
 
-The project documentation is available in the **docs/** directory.
+Start with the first guide:
 
-The first article will be:
-
-**➡️ Navigating the HLA Landscape**
+➡️ [Navigating the HLA Landscape](docs/hla-landscape.md)
 
 *A practical guide to HLA databases, bioinformatics tools, and clinical resources.*
-
-*(Coming soon)*
 
 ---
 
